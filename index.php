@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>hopping-Cart</title>
+    <title>Shopping-Cart</title>
     <link href="styling.css" rel="stylesheet">
 </head>
 <body>
